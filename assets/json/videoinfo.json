@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Intoduction",
+    "time": "45 minutes",
+    "thumbnail": "assets/images/img1.jpeg",
+    "videoUrl": "https://youtu.be/hEgO047GxaQ?si=nMikLCwDVtjPrxmq"
+  },
+  {
+    "title": "Variables",
+    "time": "45 minutes",
+    "thumbnail": "assets/images/img1.jpeg",
+    "videoUrl": "https://youtu.be/_OZIAHg5i7M?si=09-bpxWtD3ZBRuB5"
+  },
+  {
+    "title": "Data Types",
+    "time": "45 minutes",
+    "thumbnail": "assets/images/img1.jpeg",
+    "videoUrl": "https://youtu.be/gCCVsvgR2KU?si=nJD5K4p7Q5QH1FxI"
+  },
+  {
+    "title": "Arrays",
+    "time": "45 minutes",
+    "thumbnail": "assets/images/img1.jpeg",
+    "videoUrl": "https://youtu.be/6a39OjkCN5I?si=IKdWazsNfRhBTj6F"
+  },
+  {
+    "title": "Class and Objects",
+    "time": "45 minutes",
+    "thumbnail": "assets/images/img1.jpeg",
+    "videoUrl": "https://youtu.be/8O5kX73OkIY?si=h-on14rtsoi6-s9T"
+  }
+]
+
+
