@@ -1,6 +1,6 @@
-# zidioelearningapp
+# zidio e learning app flutter
 
-A new Flutter project.
+Zidio eLearning App is a modern mobile application built using Flutter and Dart, designed to offer a seamless digital learning experience for students and professionals. The app provides access to a wide range of courses, training modules, quizzes, and skill development resources. With a user-friendly interface, it supports video lectures, downloadable content, progress tracking, and interactive assessments. The app is cross-platform, ensuring smooth performance on both Android and iOS devices. Ideal for self-paced learning, Zidio eLearning App empowers users to upgrade their skills anytime, anywhere.
 
 ## Getting Started
 
